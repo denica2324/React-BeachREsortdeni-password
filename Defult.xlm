@@ -1,0 +1,6 @@
+<!xml version='1.0' encoding ="UTF-8"?>
+<react>
+<remote fetch="https://github.com/denica2324" name="origin"
+<default remote="origin" snyc-j="4" revision="master"
+<project name="React-webapp" path="app"
+<project name="webapp-driver" path="driver"
